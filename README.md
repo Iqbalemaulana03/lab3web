@@ -21,3 +21,7 @@ agar tampilannya lebih menarik dan bagus, tambahkan CSS seperti berikut :
 ![image](https://user-images.githubusercontent.com/82009410/114476314-2f39b980-9c24-11eb-812e-f8dc16896639.png)
 
 itulah hasil cara belajar membuat list,table dan form. sekian terima kasiih.!!!
+Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+JAWABANNYA!!!
+![Quetion](https://user-images.githubusercontent.com/82009410/114486578-5e5a2600-9c38-11eb-86ff-2eea10aac00c.PNG)
